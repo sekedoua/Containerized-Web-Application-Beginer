@@ -1,24 +1,22 @@
 #  Basic Docker project
 
-## **Project overview **
+## **Project overview**
  * Basics of Docker by containerizing a simple web application.
  
+## **Prerequisites**
 
-## **Prerequesites**
 * Python  3.13.1 (Flask 3.1.0) 
 * Docker version 27.5.1
 
 ## **Project Structure**
 
-
+```bash
 sports-api-management/
 ├── app.py #   Flask  app
 ├── Dockerfile # Dockerfile  to containerise the flask app
 ├── requirements.txt # Dependencies 
-
+```
 ## **TODO**
-
-
 
 ### **Clone the repo**
 ```bash
