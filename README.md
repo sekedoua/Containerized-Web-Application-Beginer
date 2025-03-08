@@ -1,8 +1,8 @@
 #  Basic Docker project
 
-## **Présentation du projet**
- Basics of Docker by containerizing a simple web application.
----
+## **Project overview **
+ * Basics of Docker by containerizing a simple web application.
+ 
 
 ## **Prerequesites**
 * Python  3.13.1 (Flask 3.1.0) 
